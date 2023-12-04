@@ -1,3 +1,4 @@
+import collections
 import sys
 
 fname = 'input.txt' if len(sys.argv) < 2 else sys.argv[1]
